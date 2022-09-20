@@ -68,7 +68,8 @@ nav  {
 #footer {
     font-size: 15px;
     position: fixed;
-    bottom: 0px;
+    bottom: 0%;
+    left: 0%;
     width: 100%;
     background-color: white;
     color: black;
