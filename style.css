@@ -15,8 +15,7 @@ body {
     font-size: 16px;
     font-weight: bold;
     padding: 10px 20px;
-    text-decoration: none;
-    
+    text-decoration: none; 
 }
 
 
@@ -33,28 +32,30 @@ nav  {
     position: fixed; 
     top: 0; 
     width: 98%;
-    text-align: right;
-    
+    text-align: right; 
 }
+
 
 .content{
     color: lightgrey;
-    /* border: 1px solid white; */
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
+
 .content h1 {
     font-size: 80px;
     margin-bottom: 0px;
 }
 
+
 .content p {
     margin-top: 0px;
     
 }
+
 
 #card {
     border: 1px white solid;
@@ -62,7 +63,6 @@ nav  {
     margin-top: 5%;
 
 }
-
 
 
 #footer {
@@ -76,5 +76,3 @@ nav  {
     color: black;
     text-align: center;
 }
-
-
